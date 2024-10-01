@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-I'm Emmanuel Damilola Oluwafemi, a Software Engineer. 
+I'm Damilola Oluwafemi, a Software Engineer. 
 
 This is my GitHub page, where I explore new technologies, and build personal projects. 
 
